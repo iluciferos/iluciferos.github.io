@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "html",
+      "setup": "",
+      "run": "html",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
